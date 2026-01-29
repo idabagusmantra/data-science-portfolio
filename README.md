@@ -76,7 +76,9 @@ https://www.kaggle.com/competitions/playground-series-s5e12
     * **Strategi:** Menggunakan pendekatan *Robust Preprocessing* (Median Imputation & RobustScaler), model Ensemble (CatBoost/RandomForest), dan strategi inovatif *Post-Hoc Error Analysis* (Human-in-the-Loop) untuk menangani nasabah *borderline*.
 - **Tools & Library:** Python, CatBoost, Scikit-learn, Pandas, Seaborn.
 **File:** `submission_magic_bullet.csv` / `researcher-recruitment-final.ipynb`
+  
 **LinkKaggle Notebook:**
   https://www.kaggle.com/code/idabagusmantra/researcher-recruitment-final
+  
 **Kaggle Competition:**
   https://www.kaggle.com/competitions/iris-researcher-recruitment-challenge-2026
